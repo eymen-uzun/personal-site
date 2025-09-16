@@ -1,2 +1,2 @@
-# personal-site
+# Personal-Site
 My online CV and portfolio.
